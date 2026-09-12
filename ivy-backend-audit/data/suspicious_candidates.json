@@ -1,0 +1,410 @@
+[
+  {
+    "id": "MAG-6001288",
+    "ppsqft": 203896,
+    "price": 15700000,
+    "area": 77,
+    "desc": "Quiet 2 BHK apartment in Shriram Heights, Sector 49. Semi-furnished, north-east-facing. Gated society with security; clubhouse and pool in the society.",
+    "contact": "+912002531132"
+  },
+  {
+    "id": "MAG-6002733",
+    "ppsqft": 211282,
+    "price": 24720000,
+    "area": 117,
+    "desc": "Corner 3 BHK builder floor in My Home Vista, Dwarka Expressway. Fully-furnished, south-east-facing. Walking distance to it parks; near schools and hospitals.",
+    "contact": "+912001121584"
+  },
+  {
+    "id": "MAG-6000631",
+    "ppsqft": -10326,
+    "price": -8550000,
+    "area": 828,
+    "desc": "Well maintained 2 BHK apartment in Adarsh Park, New Gurgaon. Semi-furnished, south-west-facing. Close to the metro; covered parking.",
+    "contact": "+912008621705"
+  },
+  {
+    "id": "MAG-6001012",
+    "ppsqft": 208261,
+    "price": 23950000,
+    "area": 115,
+    "desc": "Premium 3 BHK villa in Aparna Elite, Sector 56. Fully-furnished, south-west-facing. Covered parking; wooden flooring in the bedrooms.",
+    "contact": "+912000213900"
+  },
+  {
+    "id": "MAG-6002472",
+    "ppsqft": 103,
+    "price": 8010,
+    "area": 78,
+    "desc": "Quiet 2 BHK villa in My Home Grand, Dlf Phase 3. Semi-furnished, north-facing. Clubhouse and pool in the society; gated society with security.",
+    "contact": "+912007075604"
+  },
+  {
+    "id": "DWE-6002663",
+    "ppsqft": -16831,
+    "price": -13650000,
+    "area": 811,
+    "desc": "Newly painted 2 BHK apartment in Rohan Terraces, Mg Road. Unfurnished, south-facing. Clubhouse and pool in the society; near schools and hospitals.",
+    "contact": "+912005888875"
+  },
+  {
+    "id": "MAG-6001058",
+    "ppsqft": 208443,
+    "price": 25430000,
+    "area": 122,
+    "desc": "Newly painted 3 BHK apartment in Nitesh Crest, Dwarka Expressway. Fully-furnished, south-facing. 24x7 water and power backup; near schools and hospitals.",
+    "contact": "+912005648756"
+  },
+  {
+    "id": "MAG-6002051",
+    "ppsqft": 201944,
+    "price": 21810000,
+    "area": 108,
+    "desc": "Park facing 3 BHK apartment in Salarpuria Greens, Sector 82. Fully-furnished, east-facing. Modular kitchen; close to the metro.",
+    "contact": "+912007597819"
+  },
+  {
+    "id": "SQU-6000395",
+    "ppsqft": 12,
+    "price": 17010,
+    "area": 1456,
+    "desc": "Newly painted 4 BHK apartment in Puravankara Woods, Golf Course Road. Unfurnished, north-west-facing. Near schools and hospitals; 24x7 water and power backup.",
+    "contact": "+912005982755"
+  },
+  {
+    "id": "MAG-6001029",
+    "ppsqft": 220342,
+    "price": 25780000,
+    "area": 117,
+    "desc": "Vastu compliant 3 BHK apartment in Lodha Habitat, Golf Course Road. Fully-furnished, south-facing. Covered parking; modular kitchen.",
+    "contact": "+912006098375"
+  },
+  {
+    "id": "100-6001461",
+    "ppsqft": -15481,
+    "price": -17880000,
+    "area": 1155,
+    "desc": "Quiet 3 BHK apartment in Godrej Greens, New Gurgaon. Unfurnished, east-facing. Near schools and hospitals; covered parking.",
+    "contact": "+912006234399"
+  },
+  {
+    "id": "MAG-6002129",
+    "ppsqft": 206026,
+    "price": 16070000,
+    "area": 78,
+    "desc": "Spacious 2 BHK apartment in Mantri Boulevard, Mg Road. Unfurnished, north-west-facing. Close to the metro; clubhouse and pool in the society.",
+    "contact": "+912001682239"
+  },
+  {
+    "id": "MAG-6000100",
+    "ppsqft": 212105,
+    "price": 24180000,
+    "area": 114,
+    "desc": "Newly painted 3 BHK villa in Puravankara Elite, Sohna Road. Unfurnished, south-east-facing. Covered parking; gated society with security.",
+    "contact": "+912000252934"
+  },
+  {
+    "id": "MAG-6002941",
+    "ppsqft": 96,
+    "price": 17250,
+    "area": 180,
+    "desc": "Newly painted 5 BHK apartment in Aparna Willows, Dwarka Expressway. Unfurnished, north-east-facing. Quiet lane with no through traffic; walking distance to IT parks.",
+    "contact": "+912004923985"
+  },
+  {
+    "id": "MAG-6000273",
+    "ppsqft": 214589,
+    "price": 31330000,
+    "area": 146,
+    "desc": "Quiet 4 BHK apartment in Mantri Heights, New Gurgaon. Fully-furnished, north-west-facing. Modular kitchen; walking distance to IT parks.",
+    "contact": "+912004133634"
+  },
+  {
+    "id": "MAG-6001520",
+    "ppsqft": 226321,
+    "price": 23990000,
+    "area": 106,
+    "desc": "Vastu compliant 3 BHK apartment in Puravankara Enclave, Sector 56. Unfurnished, north-west-facing. Wooden flooring in the bedrooms; gated society with security.",
+    "contact": "+912009348362"
+  },
+  {
+    "id": "MAG-6001363",
+    "ppsqft": 203861,
+    "price": 20590000,
+    "area": 101,
+    "desc": "Newly painted 3 BHK apartment in Mantri Woods, Dwarka Expressway. Fully-furnished, east-facing. 24x7 water and power backup; clubhouse and pool in the society.",
+    "contact": "+912005432855"
+  },
+  {
+    "id": "MAG-6002406",
+    "ppsqft": 203796,
+    "price": 22010000,
+    "area": 108,
+    "desc": "Corner 3 BHK apartment in Nitesh Willows, Sector 65. Unfurnished, east-facing. 24x7 water and power backup; modular kitchen.",
+    "contact": "+912007985915"
+  },
+  {
+    "id": "MAG-6001682",
+    "ppsqft": 210789,
+    "price": 24030000,
+    "area": 114,
+    "desc": "Corner 3 BHK apartment in Prestige Enclave, Sector 56. Semi-furnished, west-facing. Clubhouse and pool in the society; quiet lane with no through traffic.",
+    "contact": "+912007954933"
+  },
+  {
+    "id": "MAG-6001130",
+    "ppsqft": 212179,
+    "price": 16550000,
+    "area": 78,
+    "desc": "Well maintained 2 BHK apartment in Godrej Meadows, New Gurgaon. Semi-furnished, north-west-facing. Close to the metro; wooden flooring in the bedrooms.",
+    "contact": "+912005191502"
+  },
+  {
+    "id": "MAG-6001041",
+    "ppsqft": 205946,
+    "price": 7620000,
+    "area": 37,
+    "desc": "Quiet 1 BHK apartment in Prestige Residency, Mg Road. Fully-furnished, north-west-facing. Walking distance to it parks; close to the metro.",
+    "contact": "+912003231964"
+  },
+  {
+    "id": "MAG-6001279",
+    "ppsqft": 226016,
+    "price": 27800000,
+    "area": 123,
+    "desc": "Premium 3 BHK apartment in Lodha Vista, Sector 56. Semi-furnished, south-east-facing. Modular kitchen; 24x7 water and power backup.",
+    "contact": "+912009086575"
+  },
+  {
+    "id": "MAG-6003380",
+    "ppsqft": 221667,
+    "price": 17290000,
+    "area": 78,
+    "desc": "Corner 2 BHK apartment in Mantri-Enclave, Sector 82. Fully-furnished, south-facing. Near schools and hospitals; covered parking.",
+    "contact": "+912005853791"
+  },
+  {
+    "id": "MAG-6002441",
+    "ppsqft": 222394,
+    "price": 15790000,
+    "area": 71,
+    "desc": "Premium 2 BHK independent house in Assetz Meadows, Mg Road. Unfurnished, east-facing. Clubhouse and pool in the society; quiet lane with no through traffic.",
+    "contact": "+912004422360"
+  },
+  {
+    "id": "MAG-6001065",
+    "ppsqft": 207190,
+    "price": 25070000,
+    "area": 121,
+    "desc": "Well maintained 3 BHK builder floor in Adarsh Elite, Sector 82. Fully-furnished, north-east-facing. Quiet lane with no through traffic; gated society with security.",
+    "contact": "+912005732077"
+  },
+  {
+    "id": "MAG-6001194",
+    "ppsqft": 227965,
+    "price": 25760000,
+    "area": 113,
+    "desc": "Sunlit 3 BHK villa in Casagrand Grand, Dlf Phase 3. Unfurnished, east-facing. Close to the metro; walking distance to IT parks.",
+    "contact": "+912001670685"
+  },
+  {
+    "id": "100-6001599",
+    "ppsqft": 14,
+    "price": 26260,
+    "area": 1899,
+    "desc": "Newly painted 5 BHK apartment in Prestige Habitat, Sector 49. Unfurnished, west-facing. Walking distance to it parks; modular kitchen.",
+    "contact": "+912001706107"
+  },
+  {
+    "id": "MAG-6000788",
+    "ppsqft": 213810,
+    "price": 17960000,
+    "area": 84,
+    "desc": "Well maintained 2 BHK builder floor in Century Vista, New Gurgaon. Fully-furnished, south-east-facing. Modular kitchen; covered parking.",
+    "contact": "+912007117099"
+  },
+  {
+    "id": "MAG-6001552",
+    "ppsqft": 217792,
+    "price": 33540000,
+    "area": 154,
+    "desc": "Premium 4 BHK builder floor in Godrej Elite, Mg Road. Semi-furnished, west-facing. Clubhouse and pool in the society; wooden flooring in the bedrooms.",
+    "contact": "+912005940317"
+  },
+  {
+    "id": "MAG-6000106",
+    "ppsqft": 201519,
+    "price": 15920000,
+    "area": 79,
+    "desc": "Vastu compliant 2 BHK builder floor in Lodha Crest, Dwarka Expressway. Semi-furnished, north-facing. Modular kitchen; near schools and hospitals.",
+    "contact": "+912007812606"
+  },
+  {
+    "id": "MAG-6000662",
+    "ppsqft": 204444,
+    "price": 7360000,
+    "area": 36,
+    "desc": "Premium 1 BHK independent house in Casagrand Grand, Sector 82. Semi-furnished, north-west-facing. Wooden flooring in the bedrooms; modular kitchen.",
+    "contact": "+912001317078"
+  },
+  {
+    "id": "MAG-6000403",
+    "ppsqft": 206138,
+    "price": 38960000,
+    "area": 189,
+    "desc": "Sunlit 5 BHK apartment in My Home Heights, New Gurgaon. Semi-furnished, south-east-facing. 24x7 water and power backup; covered parking.",
+    "contact": "+912008598318"
+  },
+  {
+    "id": "MAG-6002976",
+    "ppsqft": 203038,
+    "price": 16040000,
+    "area": 79,
+    "desc": "Sunlit 2 BHK apartment in Mantri Habitat, Mg Road. Fully-furnished, east-facing. Close to the metro; wooden flooring in the bedrooms.",
+    "contact": "+912003137805"
+  },
+  {
+    "id": "MAG-6000443",
+    "ppsqft": 205405,
+    "price": 15200000,
+    "area": 74,
+    "desc": "Premium 2 BHK apartment in Lodha Park, Golf Course Road. Unfurnished, north-east-facing. Wooden flooring in the bedrooms; close to the metro.",
+    "contact": "+912000141855"
+  },
+  {
+    "id": "ZER-6000669",
+    "ppsqft": -15055,
+    "price": -17660000,
+    "area": 1173,
+    "desc": "Park facing 3 BHK apartment in Puravankara Vista, Sohna Road. Semi-furnished, east-facing. Gated society with security; wooden flooring in the bedrooms.",
+    "contact": "+912006357283"
+  },
+  {
+    "id": "MAG-6000383",
+    "ppsqft": 221311,
+    "price": 27000000,
+    "area": 122,
+    "desc": "Vastu compliant 3 BHK apartment in Brigade Heights, Mg Road. Unfurnished, north-west-facing. Gated society with security; near schools and hospitals.",
+    "contact": "+912006608489"
+  },
+  {
+    "id": "MAG-6002377",
+    "ppsqft": 202317,
+    "price": 16590000,
+    "area": 82,
+    "desc": "Quiet 2 BHK apartment in My Home Vista, Sector 56. Fully-furnished, north-facing. Close to the metro; near schools and hospitals.",
+    "contact": "+912006481979"
+  },
+  {
+    "id": "MAG-6000449",
+    "ppsqft": 207386,
+    "price": 18250000,
+    "area": 88,
+    "desc": "Spacious 2 BHK apartment in Assetz Sanctuary, Sector 49. Unfurnished, north-facing. Near schools and hospitals; gated society with security.",
+    "contact": "+912007337752"
+  },
+  {
+    "id": "MAG-6001733",
+    "ppsqft": 213106,
+    "price": 28130000,
+    "area": 132,
+    "desc": "Newly painted 4 BHK apartment in Godrej Woods, Sohna Road. Unfurnished, north-facing. Covered parking; gated society with security.",
+    "contact": "+912001167150"
+  },
+  {
+    "id": "MAG-6002585",
+    "ppsqft": 201455,
+    "price": 22160000,
+    "area": 110,
+    "desc": "Spacious 3 BHK apartment in Puravankara Boulevard, Dwarka Expressway. Unfurnished, north-east-facing. Quiet lane with no through traffic; wooden flooring in the bedrooms.",
+    "contact": "+912000599263"
+  },
+  {
+    "id": "MAG-6001365",
+    "ppsqft": 218289,
+    "price": 16590000,
+    "area": 76,
+    "desc": "Spacious 2 BHK apartment in Puravankara Park, New Gurgaon. Unfurnished, south-east-facing. Quiet lane with no through traffic; close to the metro.",
+    "contact": "+912005732077"
+  },
+  {
+    "id": "MAG-6000886",
+    "ppsqft": 209853,
+    "price": 28540000,
+    "area": 136,
+    "desc": "Premium 4 BHK builder floor in Rohan Terraces, Sector 65. Fully-furnished, south-facing. Walking distance to it parks; clubhouse and pool in the society.",
+    "contact": "+912009844522"
+  },
+  {
+    "id": "MAG-6000438",
+    "ppsqft": 211125,
+    "price": 16890000,
+    "area": 80,
+    "desc": "Newly painted 2 BHK apartment in My Home Serenity, Sector 56. Semi-furnished, east-facing. Modular kitchen; near schools and hospitals.",
+    "contact": "+912003100821"
+  },
+  {
+    "id": "MAG-6001423",
+    "ppsqft": 204967,
+    "price": 30950000,
+    "area": 151,
+    "desc": "Spacious 4 BHK apartment in Casagrand Sanctuary, Mg Road. Semi-furnished, north-east-facing. Close to the metro; wooden flooring in the bedrooms.",
+    "contact": "+912008436733"
+  },
+  {
+    "id": "SQU-6003044",
+    "ppsqft": -16610,
+    "price": -12640000,
+    "area": 761,
+    "desc": "Park facing 2 BHK apartment in Shriram Meadows, Dwarka Expressway. Fully-furnished, east-facing. Quiet lane with no through traffic; 24x7 water and power backup.",
+    "contact": "+912008825767"
+  },
+  {
+    "id": "MAG-6001576",
+    "ppsqft": 227308,
+    "price": 11820000,
+    "area": 52,
+    "desc": "Newly painted 1 BHK independent house in Godrej Elite, New Gurgaon. Unfurnished, west-facing. Near schools and hospitals; clubhouse and pool in the society.",
+    "contact": "+912005965530"
+  },
+  {
+    "id": "100-6002071",
+    "ppsqft": -10574,
+    "price": -12340000,
+    "area": 1167,
+    "desc": "Spacious 3 BHK builder floor in Lodha Greens, New Gurgaon. Unfurnished, south-west-facing. Gated society with security; close to the metro.",
+    "contact": "+912002070577"
+  },
+  {
+    "id": "MAG-6000192",
+    "ppsqft": 203714,
+    "price": 14260000,
+    "area": 70,
+    "desc": "Quiet 2 BHK apartment in Mantri Heights, New Gurgaon. Unfurnished, west-facing. Covered parking; clubhouse and pool in the society.",
+    "contact": "+912001333568"
+  },
+  {
+    "id": "100-6000578",
+    "ppsqft": 18,
+    "price": 14620,
+    "area": 803,
+    "desc": "Park facing 2 BHK apartment in Aparna Vista, Sohna Road. Semi-furnished, north-west-facing. Close to the metro; 24x7 water and power backup.",
+    "contact": "+912009844522"
+  },
+  {
+    "id": "100-6000678",
+    "ppsqft": 11,
+    "price": 5030,
+    "area": 453,
+    "desc": "Park facing 1 BHK apartment in Nitesh Pavilion, Mg Road. Unfurnished, west-facing. Gated society with security; walking distance to IT parks.",
+    "contact": "+912007394786"
+  },
+  {
+    "id": "MAG-6000552",
+    "ppsqft": 206829,
+    "price": 16960000,
+    "area": 82,
+    "desc": "Vastu compliant 2 BHK apartment in Assetz Terraces, Sector 65. Fully-furnished, west-facing. Gated society with security; covered parking.",
+    "contact": "+912007710634"
+  }
+]
