@@ -26,8 +26,8 @@ async function generateSubmission() {
     api_key: process.env.API_KEY || "IVY26-8B68015ADE35",
     candidate: {
       name: "Anuj Kumar Sharma",
-      email: "your_email@mnnit.ac.in",
-      repo_url: "https://github.com/yourusername/ivy-homes-assignment",
+      email: "anuj.20233070@mnnit.ac.in",
+      repo_url: "https://github.com/Anujsharma88085/ivy-homes",
       demo_url: "https://ivy-homes-frontend.vercel.app"
     },
     answers: {
@@ -259,11 +259,29 @@ async function generateSubmission() {
             "has_more": false
           }
         }
+      },
+      {
+        "endpoint": "/v1/favourites",
+        "category": "missing_endpoint",
+        "documented": "Favourites endpoints are documented at /v1/favourites: GET /v1/favourites, POST /v1/favourites with body {\"id\": \"...\"}, and DELETE /v1/favourites/{id}.",
+        "actual": "Returns 404 Not Found. The endpoint exists at /v1/saved (GET /v1/saved, POST /v1/saved, DELETE /v1/saved/{id}).",
+        "how_found": "Probed GET /v1/favourites which returned 404; probed alternative resource names and confirmed /v1/saved returns 200 with { count, results }.",
+        "impact": "Any frontend adhering to the documented /v1/favourites route fails to fetch or save listings; all user bookmarking features break with 404 errors.",
+        "evidence": []
+      },
+      {
+        "endpoint": "/v1/listings/{id}/similar",
+        "category": "missing_endpoint",
+        "documented": "GET /v1/listings/{listing_id}/similar returns up to ten comparable listings — same locality, same bedroom count, price within 15%.",
+        "actual": "Returns 404 Not Found. Probing /v1/listings with query parameters like ?similar_to={id} returns 200 OK but quietly ignores the parameter and serves the default unfiltered catalog (including the target property itself).",
+        "how_found": "Sent GET request to /v1/listings/MAG-6002450/similar which returned 404; compared results of /v1/listings?similar_to=MAG-6002450 against bare /v1/listings and found identical record IDs in identical order.",
+        "impact": "Detail pages cannot retrieve server-computed comparable listings; recommendation logic must be implemented client-side by querying /v1/listings filtered by locality and BHK.",
+        "evidence": []
       }
     ]
   };
 
-  await fs.writeFile('./submission.json', JSON.stringify(submission, null, 2));
+  await fs.writeFile('../submission.json', JSON.stringify(submission, null, 2));
   console.log("Successfully generated ./submission.json with", submission.findings.length, "findings and all 10 answers!");
 }
 
