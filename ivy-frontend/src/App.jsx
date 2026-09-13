@@ -8,6 +8,7 @@ import { Rentals } from './pages/Rentals';
 import { Projects } from './pages/Projects';
 import { Saved } from './pages/Saved';
 import { Insights } from './pages/Insights';
+import Analytics from './pages/analytics';
 import { useAuth } from './context/AuthContext';
 
 const ProtectedRoute = ({ children }) => {
@@ -67,7 +68,7 @@ export default function App() {
             path="/insights"
             element={
               <ProtectedRoute>
-                <Insights />
+                <Analytics />
               </ProtectedRoute>
             }
           />
